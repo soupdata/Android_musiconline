@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Studio\\workspace\\remusic-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\Studio\\workspace\\remusic-master\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "6,29,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "177,1339,488",
+                        "endLines": "10,31,27",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "482,1500,1333"
+                    },
+                    "to": {
+                        "startLines": "2,7,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,365,531",
+                        "endLines": "6,9,25",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "360,526,1376"
+                    }
+                }
+            ]
+        }
+    ]
+}

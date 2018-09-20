@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  >
+
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:src="@drawable/wyy" />-->
+
+
+    <!--<Button-->
+        <!--android:id="@+id/btn_login"-->
+        <!--android:layout_width="240dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignLeft="@+id/reg"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_alignStart="@+id/reg"-->
+        <!--android:text="登录" />-->
+
+
+    <!--<Button-->
+        <!--android:id="@+id/reg"-->
+        <!--android:layout_width="240dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@+id/btn_login"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:text="注册" />-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/olv"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_above="@+id/relativeLayout"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:gravity="center"-->
+        <!--android:text="其他登录方式"-->
+        <!--android:textSize="12.0sp" />-->
+
+    <!--<RelativeLayout-->
+        <!--android:id="@+id/relativeLayout"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="72dp"-->
+        <!--android:layout_below="@+id/olv"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:visibility="visible">-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/qqImage"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/qq" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/qq"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignLeft="@id/qqImage"-->
+            <!--android:layout_alignRight="@id/qqImage"-->
+            <!--android:layout_below="@id/qqImage"-->
+            <!--android:layout_marginTop="4.0dip"-->
+            <!--android:gravity="center"-->
+            <!--android:text="QQ"-->
+            <!--android:textSize="8.0sp" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/wxImage"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="32.0dip"-->
+            <!--android:layout_toRightOf="@id/qqImage"-->
+            <!--android:src="@drawable/wx" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/wx"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignLeft="@id/wxImage"-->
+            <!--android:layout_alignRight="@id/wxImage"-->
+            <!--android:layout_below="@id/wxImage"-->
+            <!--android:layout_marginTop="4.0dip"-->
+            <!--android:gravity="center"-->
+            <!--android:text="微信"-->
+            <!--android:textSize="8.0sp" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/wbImage"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="32.0dip"-->
+            <!--android:layout_toRightOf="@id/wxImage"-->
+            <!--android:src="@drawable/wb" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/wb"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignLeft="@id/wbImage"-->
+            <!--android:layout_alignRight="@id/wbImage"-->
+            <!--android:layout_below="@id/wbImage"-->
+            <!--android:layout_marginTop="4.0dip"-->
+            <!--android:gravity="center"-->
+            <!--android:text="微博"-->
+            <!--android:textSize="8.0sp" />-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/wyImage"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginLeft="32.0dip"-->
+            <!--android:layout_toRightOf="@id/wbImage"-->
+            <!--android:src="@drawable/wy" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/wy"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignLeft="@+id/wyImage"-->
+            <!--android:layout_alignRight="@+id/wyImage"-->
+            <!--android:layout_below="@+id/wyImage"-->
+            <!--android:layout_marginTop="4.0dp"-->
+
+            <!--android:gravity="center"-->
+            <!--android:text="网易"-->
+            <!--android:textSize="8.0sp" />-->
+
+    <!--</RelativeLayout>-->
+
+
+</RelativeLayout>

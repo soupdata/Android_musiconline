@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Studio\\workspace\\remusic-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\XIEJIAJIN\\.gradle\\caches\\3.3\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\6fdce275b31dd3e8a03c1a9c420dffe4\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,40,45,50,52,54,55,56,107,159",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2795,3203,3623,3730,3859,3930,4013,7721,11569",
+                        "endLines": "7,13,19,25,31,37,38,39,44,49,51,53,54,55,106,158,159",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2790,3198,3618,3725,3854,3925,4008,7716,11564,11655"
+                    },
+                    "to": {
+                        "startLines": "4,10,16,22,28,34,40,41,42,47,52,54,56,57,58,109,161",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "163,582,1007,1435,1861,2288,2713,2802,2903,3311,3731,3838,3967,4038,4121,7829,11677",
+                        "endLines": "9,15,21,27,33,39,40,41,46,51,53,55,56,57,108,160,161",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "577,1002,1430,1856,2283,2708,2797,2898,3306,3726,3833,3962,4033,4116,7824,11672,11763"
+                    }
+                },
+                {
+                    "source": "D:\\Studio\\workspace\\remusic-master\\app\\src\\main\\res\\values-v11\\drawables.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "11",
+                        "endOffsets": "158"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Thu Sep 13 14:59:55 CST 2018
+base.0=/usr/local/remusic-master/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

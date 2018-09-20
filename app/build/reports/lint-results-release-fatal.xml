@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.0.1">
+
+    <issue
+        id="ResourceType"
+        severity="Fatal"
+        message="Expected resource of type styleable"
+        category="Correctness"
+        priority="7"
+        summary="Wrong Resource Type"
+        explanation="Ensures that resource id&apos;s passed to APIs are of the right type; for example, calling `Resources.getColor(R.string.name)` is wrong."
+        errorLine1="        final int drawLeftTintId = array.getResourceId(1, 0);"
+        errorLine2="                                                       ~">
+        <location
+            file="D:\Studio\workspace\remusic-master\app\src\main\java\com\bilibili\magicasakura\widgets\TintCheckedTextView.java"
+            line="57"
+            column="56"/>
+    </issue>
+
+</issues>

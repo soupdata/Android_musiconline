@@ -1,0 +1,483 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+MERGED from [com.android.support:design:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/3bd60634e0197b25b8d754b9fcb87d3c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c4f1a18dc529c348f1e4739b6144c6cb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.facebook.fresco:fresco:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/fresco-0.9.0.aar/ce11606f7bf0c656972f5e78914287e0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.6.0.aar/b6e566d5fa973d578e2fe3dfb82ce149/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/bf339eba62dfbaa0f9dfc85d4bb88562/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/6893c02fad27d1b53809c93f66f076b4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/drawee-0.9.0.aar/f8095959f84f08efdaa83ea05c337e56/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.9.0.aar/af9ad18284dd85d6d1f005cdc6683bdf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.9.0.aar/f6e35945766bf1a0f6f8208abe4ef3a2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.3.0.aar/82eed3e798be45d9d181efa25d35df26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/9a2e113939df82de6a833fb8ce23e72d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/fbcore-0.9.0.aar/d44a42f7395e93c467e14ddc4aa1411c/AndroidManifest.xml:2:1-9:12
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+	package
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:1-200:12
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:9:5-10:47
+	tools:ignore
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:9:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:15:5-16:47
+	tools:ignore
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:15:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:19:22-74
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:21:22-75
+application
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:23:5-198:19
+MERGED from [com.android.support:design:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/3bd60634e0197b25b8d754b9fcb87d3c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/3bd60634e0197b25b8d754b9fcb87d3c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c4f1a18dc529c348f1e4739b6144c6cb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c4f1a18dc529c348f1e4739b6144c6cb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/bf339eba62dfbaa0f9dfc85d4bb88562/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/bf339eba62dfbaa0f9dfc85d4bb88562/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/6893c02fad27d1b53809c93f66f076b4/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/6893c02fad27d1b53809c93f66f076b4/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/9a2e113939df82de6a833fb8ce23e72d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/9a2e113939df82de6a833fb8ce23e72d/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.tencent.tauth.AuthActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:30:9-40:20
+	android:launchMode
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:32:13-44
+	android:noHistory
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:31:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:34:13-39:29
+action#android.intent.action.VIEW
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.DEFAULT
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:37:27-75
+data
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:38:17-60
+	android:scheme
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:38:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:41:9-43:51
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:42:13-72
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:41:19-75
+activity#com.wm.remusic.activity.MainActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:44:9-52:20
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:45:13-50
+activity#com.wm.remusic.activity.LoadingActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:53:9-55:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:54:13-53
+activity#com.wm.remusic.activity.NetSearchWordsActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:57:13-60
+activity#com.wm.remusic.activity.LogActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:59:9-61:16
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:60:13-49
+activity#com.wm.remusic.activity.RegActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:63:9-65:15
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:64:13-49
+activity#com.wm.remusic.activity.PlayingActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:68:9-75:20
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:71:13-49
+	android:launchMode
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:69:13-53
+intent-filter#com.wm.remusic.LAUNCH_NOW_PLAYING_ACTION
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:72:13-74:29
+action#com.wm.remusic.LAUNCH_NOW_PLAYING_ACTION
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:73:17-83
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:73:25-80
+activity#com.wm.remusic.activity.LocalSearchActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:76:9-78:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:77:13-57
+activity#com.wm.remusic.activity.SelectActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:80:13-52
+activity#com.wm.remusic.activity.PlaylistSelectActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:82:9-84:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:83:13-60
+activity#com.wm.remusic.activity.PlaylistManagerActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:86:13-61
+activity#com.wm.remusic.activity.AlbumsDetailActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:88:9-90:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:89:13-58
+activity#com.wm.remusic.activity.TabActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:91:9-93:52
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:92:13-49
+activity#com.wm.remusic.activity.DownActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:94:9-95
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:94:57-93
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:94:19-56
+activity#com.wm.remusic.activity.PlaylistActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:95:9-99
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:95:61-97
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:95:19-60
+activity#com.wm.remusic.activity.RecentActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:96:9-97
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:96:59-95
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:96:19-58
+activity#com.wm.remusic.activity.NetItemChangeActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:97:9-104
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:97:66-102
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:97:19-65
+activity#com.wm.remusic.activity.ArtistDetailActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:98:9-103
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:98:65-101
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:98:19-64
+activity#com.wm.remusic.activity.RadioDetailActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:99:9-102
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:99:64-100
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:99:19-63
+activity#com.wm.remusic.activity.LockActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:100:9-107:53
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:104:13-49
+	android:excludeFromRecents
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:101:13-46
+	android:launchMode
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:103:13-48
+	android:noHistory
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:105:13-37
+	android:exported
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:102:13-37
+	android:theme
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:107:13-51
+	android:taskAffinity
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:106:13-63
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:100:19-56
+activity#com.wm.remusic.activity.RankPlaylistActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:108:9-66
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:108:19-64
+activity#com.wm.remusic.request.UiMonitorActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:109:9-62
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:109:19-60
+service#com.wm.remusic.downmusic.DownService
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:111:9-123:19
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:111:18-55
+intent-filter#com.wm.remusic.caclealltask+com.wm.remusic.cacletask+com.wm.remusic.downtaskadd+com.wm.remusic.multidowntaskadd+com.wm.remusic.pausealltask+com.wm.remusic.pausetask+com.wm.remusic.resumestarttask+com.wm.remusic.startalltask
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:112:13-121:29
+action#com.wm.remusic.downtaskadd
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:113:17-68
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:113:25-66
+action#com.wm.remusic.resumestarttask
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:114:17-72
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:114:25-70
+action#com.wm.remusic.startalltask
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:115:17-69
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:115:25-67
+action#com.wm.remusic.multidowntaskadd
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:116:25-71
+action#com.wm.remusic.pausetask
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:117:17-66
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:117:25-64
+action#com.wm.remusic.pausealltask
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:118:17-69
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:118:25-67
+action#com.wm.remusic.cacletask
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:119:17-66
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:119:25-64
+action#com.wm.remusic.caclealltask
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:120:17-69
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:120:25-67
+service#com.wm.remusic.service.MediaService
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:124:9-126:39
+	android:process
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:126:13-36
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:125:13-49
+receiver#com.wm.remusic.receiver.MediaButtonIntentReceiver
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:128:9-133:20
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:128:19-69
+intent-filter#android.intent.action.MEDIA_BUTTON+android.media.AUDIO_BECOMING_NOISY
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:129:13-132:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:130:17-77
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:130:25-74
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:131:17-77
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:131:25-74
+receiver#com.wm.remusic.receiver.LaunchNowPlayingReceiver
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:135:9-139:20
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:135:19-68
+receiver#com.wm.remusic.widget.SimpleWidgetProvider
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:141:9-150:20
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:141:19-62
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+com.wm.remusi.change_music+com.wm.remusic.metachanged+com.wm.remusic.progress
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:142:13-147:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:143:17-84
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:143:25-81
+action#com.wm.remusic.metachanged
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:144:17-68
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:144:25-66
+action#com.wm.remusi.change_music
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:145:17-68
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:145:25-66
+action#com.wm.remusic.progress
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:146:17-65
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:146:25-63
+meta-data#android.appwidget.provider
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:148:13-149:58
+	android:resource
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:149:17-55
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:148:24-65
+activity#net.youmi.android.AdBrowser
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:152:9-156:20
+	android:configChanges
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:154:13-96
+	android:theme
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:155:13-66
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:153:13-55
+service#net.youmi.android.AdService
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:157:9-160:19
+	android:exported
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:159:13-37
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:158:13-55
+receiver#net.youmi.android.AdReceiver
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:161:9-167:20
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:162:13-56
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:163:13-166:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:164:17-78
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:164:25-75
+activity#com.wm.remusic.activity.SplashActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:168:9-179:16
+	android:screenOrientation
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:168:92-128
+	android:label
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:168:59-91
+	android:configChanges
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:168:129-212
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:168:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:171:10-177:21
+action#android.intent.action.MAIN
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:173:9-60
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:173:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:175:9-68
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:175:19-66
+activity#com.wm.remusic.activity.LoginActivity
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:180:9-182:38
+	android:exported
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:182:13-36
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:180:19-57
+provider#android.support.v4.content.FileProvider
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:187:9-196:21
+	android:grantUriPermissions
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:191:13-47
+	android:authorities
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:189:13-62
+	android:exported
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:190:13-37
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:188:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:193:13-195:57
+	android:resource
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:195:17-54
+	android:name
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml:194:17-67
+uses-sdk
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/3bd60634e0197b25b8d754b9fcb87d3c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/3bd60634e0197b25b8d754b9fcb87d3c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c4f1a18dc529c348f1e4739b6144c6cb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c4f1a18dc529c348f1e4739b6144c6cb/AndroidManifest.xml:21:5-23:78
+MERGED from [com.facebook.fresco:fresco:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/fresco-0.9.0.aar/ce11606f7bf0c656972f5e78914287e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/fresco-0.9.0.aar/ce11606f7bf0c656972f5e78914287e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.6.0.aar/b6e566d5fa973d578e2fe3dfb82ce149/AndroidManifest.xml:21:5-43
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.6.0.aar/b6e566d5fa973d578e2fe3dfb82ce149/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/bf339eba62dfbaa0f9dfc85d4bb88562/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/bf339eba62dfbaa0f9dfc85d4bb88562/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/6893c02fad27d1b53809c93f66f076b4/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/6893c02fad27d1b53809c93f66f076b4/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:drawee:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/drawee-0.9.0.aar/f8095959f84f08efdaa83ea05c337e56/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/drawee-0.9.0.aar/f8095959f84f08efdaa83ea05c337e56/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.9.0.aar/af9ad18284dd85d6d1f005cdc6683bdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.9.0.aar/af9ad18284dd85d6d1f005cdc6683bdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.9.0.aar/f6e35945766bf1a0f6f8208abe4ef3a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.9.0.aar/f6e35945766bf1a0f6f8208abe4ef3a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.3.0.aar/82eed3e798be45d9d181efa25d35df26/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.3.0.aar/82eed3e798be45d9d181efa25d35df26/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/9a2e113939df82de6a833fb8ce23e72d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/9a2e113939df82de6a833fb8ce23e72d/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/fbcore-0.9.0.aar/d44a42f7395e93c467e14ddc4aa1411c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.9.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/fbcore-0.9.0.aar/d44a42f7395e93c467e14ddc4aa1411c/AndroidManifest.xml:5:5-7:41
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /home/zqr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/c4f1a18dc529c348f1e4739b6144c6cb/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+		ADDED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/remusic-master/app/src/main/AndroidManifest.xml

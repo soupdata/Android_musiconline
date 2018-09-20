@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Sep 13 14:59:12 CST 2018
+0.baseType=DIRECTORY
+0.base=/usr/local/remusic-master/app/build/intermediates/assets/debug
+0.path=OaceOaT8w5Xda6wa
+0.set=ASSET
+count=1
